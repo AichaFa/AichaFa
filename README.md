@@ -14,13 +14,13 @@ Passionnée par l'intelligence artificielle, je construis une expertise complèt
 
 | Étape | Programme | Statut | Contenu |
 |-------|-----------|--------|---------|
-| 01 | **Essentials** | ✅ Certifiée | Exploration & nettoyage de données (EDA), tests d'hypothèses, régression, classification, Random Forest, SQL |
-| 02 | **Fullstack** | 🔵 En cours | Big Data (Spark, Cloud), Deep Learning, Computer Vision, NLP, MLOps, pipelines ETL |
-| 03 | **Lead Architecte IA** | 🎯 Objectif | Conception de systèmes évolutifs, gouvernance des données, leadership technique, cycle de vie complet des modèles IA |
+| 01 | **Essentials** |  Certifiée | Exploration & nettoyage de données (EDA), tests d'hypothèses, régression, classification, Random Forest, SQL |
+| 02 | **Fullstack** |  En cours | Big Data (Spark, Cloud), Deep Learning, Computer Vision, NLP, MLOps, pipelines ETL |
+| 03 | **Lead Architecte IA** |  Objectif | Conception de systèmes évolutifs, gouvernance des données, leadership technique, cycle de vie complet des modèles IA |
 
 ---
 
-## Stack technique
+## Tech Stack
 
 **Data science & analyse**
 
