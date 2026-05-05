@@ -1,65 +1,74 @@
+<div align="center">
 
-# Bonjour, je suis Aïcha Fathellah !
+# Aïcha Fathellah
 
-### Future Lead Architecte IA | Data Scientist en formation Fullstack chez Jedha
+**Architecte IA en devenir · Data Scientist — Jedha Fullstack**
 
-Bienvenue sur mon espace de travail ! Passionnée par l'intelligence artificielle, je construis mon expertise pour concevoir des solutions robustes, de l'analyse de données jusqu'à l'architecture de systèmes IA complexes.
+Passionnée par l'intelligence artificielle, je construis une expertise complète couvrant l'analyse de données, le machine learning et l'architecture de systèmes IA complexes. Je finalise actuellement le programme Fullstack chez Jedha avec pour objectif de concevoir des solutions IA robustes et évolutives.
 
----
-
-## Mon Parcours chez Jedha
-
-### Étape 1 : Essentials (Certifiée)
-*Bases fondamentales de la Data Science maîtrisées :*
-- **Analyse de données :** Exploration, nettoyage et visualisation (EDA).
-- **Statistiques :** Tests d'hypothèses (T-Test), probabilités.
-- **Machine Learning :** Régressions, classifications, Random Forest.
-- **Outils :** Python (Pandas, Numpy, Matplotlib, Scikit-Learn), SQL.
-
-### Étape 2 : Fullstack (En cours)
-*Approfondissement technique et ingénierie des données :*
-- **Big Data :** Traitement de données à grande échelle (Spark, environnements Cloud).
-- **Deep Learning :** Réseaux de neurones, Computer Vision et NLP.
-- **Déploiement (MLOps) :** Mise en production de modèles (Docker, APIs, Streamlit).
-- **Data Engineering :** Pipelines ETL et infrastructures de données.
-
-### Étape 3 : Objectif Lead Architecte IA (Vision)
-*Compétences cibles pour la conception de systèmes IA de haut niveau :*
-- **Architecture de systèmes :** Conception de solutions IA scalables et performantes.
-- **Stratégie de données :** Gouvernance et gestion stratégique des actifs data.
-- **Management Technique :** Leadership de projets et mentorat d'équipes techniques.
-- **Industrialisation :** Maîtrise complète du cycle de vie des modèles (Full Life Cycle IA).
+</div>
 
 ---
 
-## Stack Technique
+## Parcours de formation — Jedha
 
-### Data Science & Analyse (Acquis Essentials)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Engineering & Big Data (En cours Fullstack)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
-### Deep Learning & NLP (En cours Fullstack)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+| Étape | Programme | Statut | Contenu |
+|-------|-----------|--------|---------|
+| 01 | **Essentials** | ✅ Certifiée | Exploration & nettoyage de données (EDA), tests d'hypothèses, régression, classification, Random Forest, SQL |
+| 02 | **Fullstack** | 🔵 En cours | Big Data (Spark, Cloud), Deep Learning, Computer Vision, NLP, MLOps, pipelines ETL |
+| 03 | **Lead Architecte IA** | 🎯 Objectif | Conception de systèmes évolutifs, gouvernance des données, leadership technique, cycle de vie complet des modèles IA |
 
 ---
 
-## À venir
-*Mes projets majeurs sont actuellement en phase de finalisation pour intégrer les standards de qualité Fullstack avant publication.*
+## Stack technique
+
+**Data science & analyse**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Big Data & Cloud**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+**Deep Learning & NLP**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**MLOps & déploiement**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📫 Me contacter
-- **LinkedIn :** [Linkedin.com/in/aïcha-fathellah]
+## Projets
 
-> "Le but des données n'est pas de répondre aux questions, mais de vous aider à en poser de meilleures."
+> Les projets majeurs sont actuellement en phase de finalisation afin de répondre aux standards de qualité Fullstack avant publication. Revenez bientôt.
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aïcha%20Fathellah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aïcha-fathellah)
+
+---
+
+<div align="center">
+
+*« Le but des données n'est pas de répondre aux questions, mais de vous aider à en poser de meilleures. »*
+
+</div>
