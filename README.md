@@ -2,27 +2,27 @@
 
 # Aïcha Fathellah
 
-**Architecte IA en devenir · Data Scientist - Jedha Fullstack**
+**Aspiring Lead AI Architect · Data Scientist - Jedha Fullstack**
 
-Passionnée par l'intelligence artificielle, je construis une expertise complète couvrant l'analyse de données, le machine learning et l'architecture de systèmes IA complexes. Je finalise actuellement le programme Fullstack chez Jedha avec pour objectif de concevoir des solutions IA robustes et évolutives.
+Passionate about artificial intelligence, I am building end-to-end expertise across data analysis, machine learning, and the architecture of complex AI systems. Currently completing the Fullstack programme at Jedha with the long-term goal of designing robust, scalable AI solutions.
 
 </div>
 
 ---
 
-## Parcours de formation — Jedha
+## Training Path — Jedha
 
-| Étape | Programme | Statut | Contenu |
-|-------|-----------|--------|---------|
-| 01 | **Essentials** |  Certifiée | Exploration & nettoyage de données (EDA), tests d'hypothèses, régression, classification, Random Forest, SQL |
-| 02 | **Fullstack** |  En cours | Big Data (Spark, Cloud), Deep Learning, Computer Vision, NLP, MLOps, pipelines ETL |
-| 03 | **Lead Architecte IA** |  Objectif | Conception de systèmes évolutifs, gouvernance des données, leadership technique, cycle de vie complet des modèles IA |
+| Step | Programme | Status | Content |
+|------|-----------|--------|---------|
+| 01 | **Essentials** |  Certified | Data exploration & cleaning (EDA), hypothesis testing, regression, classification, Random Forest, SQL |
+| 02 | **Fullstack** |  In progress | Big Data (Spark, Cloud), Deep Learning, Computer Vision, NLP, MLOps, ETL pipelines |
+| 03 | **Lead AI Architect** |  Goal | Scalable system design, data governance, technical leadership, full AI lifecycle management |
 
 ---
 
-## "Stack Technique"
+## Tech Stack
 
-**Data science & analyse**
+**Data science & analysis**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -45,7 +45,7 @@ Passionnée par l'intelligence artificielle, je construis une expertise complèt
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**MLOps & déploiement**
+**MLOps & deployment**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -55,9 +55,9 @@ Passionnée par l'intelligence artificielle, je construis une expertise complèt
 
 ---
 
-## Projets
+## Projects
 
-> Les projets majeurs sont actuellement en phase de finalisation afin de répondre aux standards de qualité Fullstack avant publication. Revenez bientôt.
+> Major projects are currently being finalised to meet Fullstack quality standards before publication. Check back soon.
 
 ---
 
@@ -69,6 +69,6 @@ Passionnée par l'intelligence artificielle, je construis une expertise complèt
 
 <div align="center">
 
-*« Le but des données n'est pas de répondre aux questions, mais de vous aider à en poser de meilleures. »*
+*"The goal of data is not to answer questions, but to help you ask better ones."*
 
 </div>
