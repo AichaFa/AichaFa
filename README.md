@@ -10,7 +10,7 @@ Passionate about artificial intelligence, I am building end-to-end expertise acr
 
 ---
 
-## Training Path — Jedha
+## Training Path with Jedha (Bootcamp)
 
 | Step | Programme | Status | Content |
 |------|-----------|--------|---------|
