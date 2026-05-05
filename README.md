@@ -2,7 +2,7 @@
 
 # Aïcha Fathellah
 
-**Architecte IA en devenir · Data Scientist — Jedha Fullstack**
+**Architecte IA en devenir · Data Scientist - Jedha Fullstack**
 
 Passionnée par l'intelligence artificielle, je construis une expertise complète couvrant l'analyse de données, le machine learning et l'architecture de systèmes IA complexes. Je finalise actuellement le programme Fullstack chez Jedha avec pour objectif de concevoir des solutions IA robustes et évolutives.
 
@@ -20,7 +20,7 @@ Passionnée par l'intelligence artificielle, je construis une expertise complèt
 
 ---
 
-## Tech Stack
+## "Stack Technique"
 
 **Data science & analyse**
 
