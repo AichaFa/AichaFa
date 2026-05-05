@@ -32,7 +32,7 @@ Bienvenue sur mon espace de travail ! Passionnée par l'intelligence artificiell
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -42,7 +42,7 @@ Bienvenue sur mon espace de travail ! Passionnée par l'intelligence artificiell
 ---
 
 ## À venir
-*Mes projets majeurs (dont l'analyse prédictive sur les salaires 2025) sont actuellement en phase de finalisation pour intégrer les standards de qualité Fullstack avant publication.*
+*Mes projets majeurs sont actuellement en phase de finalisation pour intégrer les standards de qualité Fullstack avant publication.*
 
 ---
 
