@@ -4,7 +4,7 @@
 
 **Aspiring Lead AI Architect · Data Scientist - Jedha Fullstack**
 
-Passionate about artificial intelligence, I am building end-to-end expertise across data analysis, machine learning, and the architecture of complex AI systems. Currently completing the Fullstack programme at Jedha with the long-term goal of designing robust, scalable AI solutions.
+Passionate about artificial intelligence, I am developing comprehensive expertise in data analysis, machine learning, and the architecture of complex AI systems. I am currently completing the Data Science & Engineering - Lead program at Jedha, with the long-term goal of designing robust and scalable AI solutions.
 
 </div>
 
