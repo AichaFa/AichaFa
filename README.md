@@ -57,7 +57,7 @@ Passionate about aata and artificial intelligence, I am developing comprehensive
 
 ## Projects
 
-> Major projects are currently being finalised to meet Fullstack quality standards before publication. Check back soon.
+> Major projects are currently being finalised to meet Data Sc. & Eng - Lead quality standards before publication. Check back soon.
 
 ---
 
