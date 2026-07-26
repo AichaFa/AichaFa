@@ -15,7 +15,7 @@ Passionate about artificial intelligence, I am building end-to-end expertise acr
 | Step | Programme | Status | Content |
 |------|-----------|--------|---------|
 | 01 | **Essentials** |  Certified | Data exploration & cleaning (EDA), hypothesis testing, regression, classification, Random Forest, SQL |
-| 02 | **Fullstack** |  In progress | Big Data (Spark, Cloud), Deep Learning, Computer Vision, NLP, MLOps, ETL pipelines |
+| 02 | **Fullstack** |  Certified | Big Data (Spark, Cloud), Deep Learning, Computer Vision, NLP, MLOps, ETL pipelines |
 | 03 | **Lead AI Architect** |  Goal | Scalable system design, data governance, technical leadership, full AI lifecycle management |
 
 ---
