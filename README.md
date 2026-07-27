@@ -63,7 +63,7 @@ Passionate about aata and artificial intelligence, I am developing comprehensive
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aïcha%20Fathellah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aïcha-fathellah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aïcha%20Fathellah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aicha-fathellah)
 
 ---
 
