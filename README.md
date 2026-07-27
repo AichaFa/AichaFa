@@ -179,39 +179,29 @@ and a customer success assistant served end to end.
 
 ### MLOps, deployment and infrastructure
 
+Tools marked *in progress* belong to the MLOps module I am currently completing:
+testing, continuous integration and deployment, continuous training and continuous monitoring.
+
 | Tool | What I use it for |
 |------|-------------------|
 | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) | Packaging applications into reproducible images that run identically anywhere |
 | [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) | Orchestrating containers across a cluster, with declarative manifests and self healing |
 | [![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://helm.sh) | Packaging and versioning Kubernetes deployments, with upgrades and rollbacks |
-| [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org) | Tracking experiments, parameters, metrics and artifacts, and serving a model registry |
+| [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org) | Tracking experiments, parameters, metrics and artifacts, serving a model registry, and running a tracking server backed by Hugging Face |
 | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) | Exposing models through documented REST APIs |
 | [![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=python&logoColor=white)](https://www.uvicorn.org) | ASGI server running FastAPI applications in production |
 | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io) | Turning models into interactive web applications |
 | [![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/spaces) | Hosting containerised applications and model demos publicly |
 | [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com) | Quick web hosting for applications |
-| [![Evidently AI](https://img.shields.io/badge/Evidently%20AI-ED0400?style=flat&logo=python&logoColor=white)](https://www.evidentlyai.com) | Monitoring models in production, detecting data and prediction drift |
-
----
-
-### Currently learning · MLOps
-
-Ongoing module of the AI Architect programme, covering the industrialisation of models:
-testing, continuous integration and deployment, continuous training and continuous monitoring.
-
-| Tool | What I use it for |
-|------|-------------------|
-| [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org) | Structuring test suites with fixtures, parameterized tests, markers and edge case coverage on data, code and models |
-| [![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6310?style=flat)](https://greatexpectations.io) | Comprehensive data validation with structured expectations and detailed quality reports |
-| [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) | Automating tests, builds and deployments on every commit, and triggering retraining pipelines |
-| [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io) | Alternative automation server for building CI/CD pipelines |
+| [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org) | Structuring test suites with fixtures, parameterized tests, markers and edge case coverage on data, code and models · *in progress* |
+| [![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6310?style=flat)](https://greatexpectations.io) | Comprehensive data validation with structured expectations and detailed quality reports · *in progress* |
+| [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) | Automating tests, builds and deployments on every commit, and triggering retraining pipelines · *in progress* |
+| [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io) | Alternative automation server for building CI/CD pipelines · *in progress* |
+| [![Evidently AI](https://img.shields.io/badge/Evidently%20AI-ED0400?style=flat&logo=python&logoColor=white)](https://www.evidentlyai.com) | Monitoring models in production, detecting data and prediction drift · *in progress* |
 
 Data validation also relies on the `pandas.testing` module for quick schema and dtype checks
 during development, with Great Expectations reserved for production grade validation.
-
-The module puts three tools already listed above into a production context:
-an **MLflow** tracking server backed by Hugging Face, **Airflow** DAGs driving training
-and monitoring pipelines, and **Evidently AI** for data and prediction drift detection.
+Training and monitoring pipelines are orchestrated as **Airflow** DAGs.
 
 ---
 
