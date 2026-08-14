@@ -18,7 +18,7 @@ designing robust, scalable and well governed AI systems.
 |------|-----------|--------|---------|
 | 01 | **Essentials** | Certified, 2025 | Data exploration and cleaning (EDA), hypothesis testing, regression, classification, Random Forest, SQL |
 | 02 | **Fullstack** | Certified, 2026 | Big Data, Deep Learning, Computer Vision, NLP, Large Language Models and RAG, MLOps, ETL pipelines |
-| 03 | **Concepteur Développeur en Science des Données** | Certified, RNCP Level 6, 2026 | Six competency blocks, from data infrastructure to leading data projects |
+| 03 | **Concepteur Développeur en Science des Données** | Certified, RNCP 2026 | Six competency blocks, from data infrastructure to leading data projects |
 | 04 | **Architecte en Intelligence Artificielle** | In progress, RNCP Level 7 | Data and AI governance, data architecture, data pipelines, industrialisation and deployment of AI solutions |
 
 ---
