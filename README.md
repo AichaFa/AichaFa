@@ -5,8 +5,7 @@
 **Data Scientist · Training as AI Architect**
 
 Office manager in the aerospace industry for four years, I am building technical expertise
-in data science and artificial intelligence alongside my role. Certified Data Scientist
-(RNCP Level 6), currently training as an AI Architect (RNCP Level 7), with a focus on
+in data science and artificial intelligence alongside my role. Certified Data Scientist, currently training as an AI Architect, with a focus on
 designing robust, scalable and well governed AI systems.
 
 </div>
