@@ -214,7 +214,7 @@ exploratory analysis, supervised and unsupervised modelling, deep learning and d
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A%C3%AFcha%20Fathellah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aicha-fathellah/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AichaFaHugFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/AichaFaHugFace)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AichaFaHugFace-FFD21E?style=flat&logo=huggingface&logoColor=black&labelColor=FFD21E)](https://huggingface.co/AichaFaHugFace)
 
 ---
 
