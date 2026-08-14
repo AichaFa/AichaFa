@@ -1,0 +1,4 @@
+pyproject.toml
+
+[tool.ruff.format]
+preview = true
