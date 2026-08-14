@@ -3,12 +3,13 @@
 # Aïcha Fathellah Tancrez
 
 **Data Scientist · Training as AI Architect**
-
-Office manager in the aerospace industry for four years, I am building technical expertise
-in data science and artificial intelligence alongside my role. 
-<br>Certified Data Scientist, currently training as an AI Architect, with a focus on
-designing robust, scalable and well governed AI systems.
-
+<div style="text-align: center;">
+  <div style="display: inline-block; text-align: left;">
+<p>Office manager in the aerospace industry for four years, I am building technical expertise
+in data science and artificial intelligence alongside my role.</p>
+<p>Certified Data Scientist, currently training as an AI Architect, with a focus on
+designing robust, scalable and well governed AI systems.</p>
+</div>
 </div>
 
 ---
