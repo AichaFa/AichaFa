@@ -1,23 +1,17 @@
-<div align="center">
+<img src="banner.png" alt="Aïcha Fathellah Tancrez — Data Scientist, training as AI Architect" width="100%">
 
-# Aïcha Fathellah Tancrez
+Office manager in the aerospace industry for four years, I am building technical expertise
+in data science and artificial intelligence alongside my role.
 
-**Data Scientist · Training as AI Architect**
-<div style="text-align: center;">
-  <div style="display: inline-block; text-align: left;">
-<p>Office manager in the aerospace industry for four years, I am building technical expertise
-in data science and artificial intelligence alongside my role.</p>
-<p>Certified Data Scientist, currently training as an AI Architect, with a focus on
-designing robust, scalable and well governed AI systems.</p>
-</div>
-</div>
+Certified Data Scientist, currently training as an AI Architect, with a focus on
+designing robust, scalable and well governed AI systems.
 
 ---
 
 ## Training path
 
 | Step | Programme | Status | Content |
-|------|-----------|--------|---------|
+|:--|:--|:--|:--|
 | 01 | **Essentials** | Certified 2025 | Data exploration and cleaning (EDA), hypothesis testing, regression, classification, Random Forest, SQL |
 | 02 | **Fullstack** | Certified 2026 | Big Data, Deep Learning, Computer Vision, NLP, Large Language Models and RAG, MLOps, ETL pipelines |
 | 03 | **Concepteur Développeur en Science des Données** | Certified 2026 | Six competency blocks, from data infrastructure to leading data projects |
@@ -29,8 +23,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Languages and core tooling
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) | Main language across every project, from analysis to model training and deployment |
 | [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) | Joins, aggregations, grouping and filtering on relational databases |
 | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org) | Working environment for containers, clusters and remote instances |
@@ -46,8 +40,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Data manipulation and analysis
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org) | Loading, cleaning, reshaping and aggregating tabular data |
 | [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org) | Vectorised numerical computing, arrays and linear algebra |
 
@@ -55,8 +49,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Visualisation and business intelligence
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)](https://matplotlib.org) | Base plotting layer, fine control over figures for reports |
 | [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org) | Statistical charts, distributions and correlation views during EDA |
 | [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/python/) | Interactive charts embedded in notebooks and dashboards |
@@ -68,8 +62,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Data collection, pipelines and orchestration
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white)](https://requests.readthedocs.io) | Consuming REST APIs to collect external data |
 | [![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html) | Asynchronous programming for concurrent data collection |
 | [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/) | Parsing and extracting content from HTML pages |
@@ -84,8 +78,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Databases and storage
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) | Relational storage for structured data and experiment tracking backends |
 | [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)](https://min.io) | S3 compatible object storage, used locally as a data lake and artifact store |
 | [![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)](https://neo4j.com) | Graph data science, modelling relationships as a network |
@@ -94,8 +88,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Cloud
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/) | Object storage for raw data and model artifacts |
 | [![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/iam/) | Managing access rights and credentials on cloud resources |
 | [![Boto3](https://img.shields.io/badge/Boto3-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](https://boto3.amazonaws.com) | Driving AWS services programmatically from Python |
@@ -108,8 +102,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Big data and distributed computing
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org) | Processing datasets too large for a single machine, with RDDs, DataFrames and Spark SQL |
 | [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/) | Python interface to Spark for large scale data processing |
 | [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](https://www.databricks.com) | Managed Spark workspace for distributed analysis and notebooks |
@@ -120,8 +114,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Machine learning
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) | Preprocessing pipelines, regression, classification, clustering, PCA, model selection and evaluation |
 | [![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=python&logoColor=white)](https://xgboost.readthedocs.io) | Gradient boosted trees on structured data |
 | [![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat&logo=python&logoColor=white)](https://lightgbm.readthedocs.io) | Fast gradient boosting, an alternative for large tabular datasets |
@@ -132,8 +126,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Deep learning
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org) | Building and training neural networks, including CNNs, RNNs and multimodal architectures |
 | [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org) | Alternative deep learning framework |
 | [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io) | High level API for assembling and training models quickly |
@@ -143,8 +137,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Natural language processing
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)](https://spacy.io) | Tokenisation, lemmatisation and linguistic preprocessing of text corpora |
 | [![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat&logo=python&logoColor=white)](https://www.nltk.org) | Classic NLP toolkit for stopwords, stemming and corpus handling |
 | [![Gensim](https://img.shields.io/badge/Gensim-1C5D99?style=flat&logo=python&logoColor=white)](https://radimrehurek.com/gensim/) | Topic modelling and word embeddings on unlabelled text |
@@ -154,8 +148,8 @@ designing robust, scalable and well governed AI systems.</p>
 
 ### Large language models and RAG
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com) | Building LLM applications end to end: document loaders, recursive text splitters, retrievers, chains composed with LCEL, memory, tools and agents including a SQL agent |
 | [![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat&logo=weaviate&logoColor=white)](https://weaviate.io) | Vector database for storing embeddings and running similarity search, run both as a managed cluster and locally in Docker |
 | [![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://www.sbert.net) | Generating sentence embeddings to populate the vector store |
@@ -171,8 +165,8 @@ and a customer success assistant served end to end.
 
 ### Reinforcement learning
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![RLlib](https://img.shields.io/badge/RLlib-028CF0?style=flat&logo=ray&logoColor=white)](https://docs.ray.io/en/latest/rllib/) | Distributed reinforcement learning built on top of Ray |
 | [![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-412991?style=flat&logo=openai&logoColor=white)](https://gymnasium.farama.org) | Building and customising reinforcement learning environments |
 
@@ -183,8 +177,8 @@ and a customer success assistant served end to end.
 Tools marked *in progress* belong to the MLOps module I am currently completing:
 testing, continuous integration and deployment, continuous training and continuous monitoring.
 
-| Tool | What I use it for |
-|------|-------------------|
+| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
+|:--|:--|
 | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) | Packaging applications into reproducible images that run identically anywhere |
 | [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) | Orchestrating containers across a cluster, with declarative manifests and self healing |
 | [![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://helm.sh) | Packaging and versioning Kubernetes deployments, with upgrades and rollbacks |
@@ -220,8 +214,4 @@ exploratory analysis, supervised and unsupervised modelling, deep learning and d
 
 ---
 
-<div align="center">
-
-*"The goal of data is not to answer questions, but to help you ask better ones."*
-
-</div>
+> *"The goal of data is not to answer questions, but to help you ask better ones."*
