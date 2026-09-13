@@ -15,7 +15,7 @@ designing robust, scalable and well governed AI systems.
 | 01 | **Essentials** | Certified 2025 | Data exploration and cleaning (EDA), hypothesis testing, regression, classification, Random Forest, SQL |
 | 02 | **Fullstack** | Certified 2026 | Big Data, Deep Learning, Computer Vision, NLP, Large Language Models and RAG, MLOps, ETL pipelines |
 | 03 | **Concepteur Développeur en Science des Données** | Certified 2026 | Six competency blocks, from data infrastructure to leading data projects |
-| 04 | **Architecte en Intelligence Artificielle** | In progress, RNCP AIA Level 7 | Data and AI governance, data architecture, data pipelines, industrialisation and deployment of AI solutions |
+| 04 | **Architecte en Intelligence Artificielle** | Jedha certificate obtained, RNCP38777 (Level 7) exam in October 2026 | Data and AI governance, data architecture, data pipelines, industrialisation and deployment of AI solutions |
 
 ---
 
@@ -80,7 +80,7 @@ designing robust, scalable and well governed AI systems.
 
 | Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
 |:--|:--|
-| [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) | Relational storage for structured data and experiment tracking backends |
+| [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) | Relational storage for structured data and experiment tracking backends, including managed Postgres on Neon |
 | [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)](https://min.io) | S3 compatible object storage, used locally as a data lake and artifact store |
 | [![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)](https://neo4j.com) | Graph data science, modelling relationships as a network |
 
@@ -132,6 +132,7 @@ designing robust, scalable and well governed AI systems.
 | [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org) | Alternative deep learning framework |
 | [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io) | High level API for assembling and training models quickly |
 | [![torchvision](https://img.shields.io/badge/torchvision-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/vision/) | Image datasets, transforms and pretrained convolutional backbones for transfer learning |
+| [![safetensors](https://img.shields.io/badge/safetensors-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://github.com/huggingface/safetensors) | Storing and loading model weights in a safe, portable format, independent of the Python version |
 
 ---
 
@@ -174,8 +175,8 @@ and a customer success assistant served end to end.
 
 ### MLOps, deployment and infrastructure
 
-Tools marked *in progress* belong to the MLOps module I am currently completing:
-testing, continuous integration and deployment, continuous training and continuous monitoring.
+These tools make up the MLOps stack I work with across testing, continuous integration
+and deployment, continuous training and continuous monitoring.
 
 | Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
 |:--|:--|
@@ -186,17 +187,18 @@ testing, continuous integration and deployment, continuous training and continuo
 | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) | Exposing models through documented REST APIs |
 | [![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=python&logoColor=white)](https://www.uvicorn.org) | ASGI server running FastAPI applications in production |
 | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io) | Turning models into interactive web applications |
+| [![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white)](https://gradio.app) | Building interactive model demos, deployed on Hugging Face Spaces |
 | [![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/spaces) | Hosting containerised applications and model demos publicly |
 | [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com) | Quick web hosting for applications |
-| [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org) | Structuring test suites with fixtures, parameterized tests, markers and edge case coverage on data, code and models · *in progress* |
-| [![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6310?style=flat)](https://greatexpectations.io) | Comprehensive data validation with structured expectations and detailed quality reports · *in progress* |
-| [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) | Automating tests, builds and deployments on every commit, and triggering retraining pipelines · *in progress* |
-| [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io) | Alternative automation server for building CI/CD pipelines · *in progress* |
-| [![Evidently AI](https://img.shields.io/badge/Evidently%20AI-ED0400?style=flat&logo=python&logoColor=white)](https://www.evidentlyai.com) | Monitoring models in production, detecting data and prediction drift · *in progress* |
+| [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org) | Structuring test suites with fixtures, parameterized tests, markers and edge case coverage on data, code and models |
+| [![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6310?style=flat)](https://greatexpectations.io) | Comprehensive data validation with structured expectations and detailed quality reports |
+| [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) | Automating tests, builds and deployments on every commit, and triggering retraining pipelines |
+| [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io) | Alternative automation server for building CI/CD pipelines |
+| [![Evidently AI](https://img.shields.io/badge/Evidently%20AI-ED0400?style=flat&logo=python&logoColor=white)](https://www.evidentlyai.com) | Monitoring models in production, detecting data and prediction drift |
 
 Data validation also relies on the `pandas.testing` module for quick schema and dtype checks
 during development, with Great Expectations reserved for production grade validation.
-Training and monitoring pipelines are orchestrated as **Airflow** DAGs.
+Training and monitoring pipelines are orchestrated with **GitHub Actions**, and also with **Airflow** DAGs.
 
 ---
 
