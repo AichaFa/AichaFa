@@ -23,7 +23,7 @@ designing robust, scalable and well governed AI systems.
 
 My work is organised by training level, each project mapping to a competency block of the certification.
 
-[![Lead - MLOps & LLMOps](https://img.shields.io/badge/Lead_--_MLOps_%26_LLMOps-brightgreen?style=for-the-badge)](https://github.com/AichaFa/3-Projets_Lead)
+<a href="https://github.com/AichaFa/3-Projets_Lead"><img src="badge_lead.png" height="34" alt="Lead - MLOps & LLMOps"></a>
 
 The four competency blocks of the AI Architect title.
 
@@ -34,7 +34,7 @@ The four competency blocks of the AI Architect title.
 | Data pipelines | **[Automatic Fraud Detection](https://github.com/AichaFa/3-Projets_Lead/tree/main/3_Automatic_Fraud_Detection)** | Real time fraud detection pipeline: model training, deployment and monitoring, with an Airflow ETL ingesting a streaming payment API |
 | Industrialisation and deployment | **[Medical Coherence Auditor](https://github.com/AichaFa/projet_final_ACM)** | Multimodal AI checking whether a radiology report is consistent with its chest X-ray, served end to end with a full MLOps chain: model registry, semantic drift monitoring and automated retraining |
 
-[![Fullstack - Data Science & Engineering](https://img.shields.io/badge/Fullstack_--_Data_Science_%26_Engineering-brightgreen?style=for-the-badge)](https://github.com/AichaFa/2-Projets-Fullstack)
+<a href="https://github.com/AichaFa/2-Projets-Fullstack"><img src="badge_fullstack.png" height="34" alt="Fullstack - Data Science & Engineering"></a>
 
 | Block | Project | What it demonstrates |
 |:--|:--|:--|
@@ -44,7 +44,7 @@ The four competency blocks of the AI Architect title.
 | Deep learning | **[AT&T spam detector](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/4-Apprentissage%20profond/D%C3%A9tecteur%20de%20spam%20AT%26T)** | Neural network for text classification |
 | Deployment | **[Getaround](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/5-Deploiement/getaround_project)** | Pricing optimisation served with MLflow, FastAPI and Streamlit |
 
-[![Essentials](https://img.shields.io/badge/Essentials-brightgreen?style=for-the-badge)](https://github.com/AichaFa/1-Projets_Essentials)
+<a href="https://github.com/AichaFa/1-Projets_Essentials"><img src="badge_essentials.png" height="34" alt="Essentials"></a>
 
 | Block | Project | What it demonstrates |
 |:--|:--|:--|
