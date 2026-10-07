@@ -23,30 +23,30 @@ designing robust, scalable and well governed AI systems.
 
 My work is organised by training level, each project mapping to a competency block of the certification.
 
-### [Lead - MLOps & LLMOps](https://github.com/AichaFa/3-Projets_Lead)
+[![Lead - MLOps & LLMOps](https://img.shields.io/badge/Lead_--_MLOps_%26_LLMOps-brightgreen?style=for-the-badge)](https://github.com/AichaFa/3-Projets_Lead)
 
 The four competency blocks of the AI Architect title.
 
 | Block | Project | What it demonstrates |
 |:--|:--|:--|
-| Data and AI governance | **Spotify Data Governance** | Maturity assessment, governance policy, RACI roles and a phased implementation roadmap |
-| Data and compute infrastructure | **Stripe - integrated data architecture** | OLTP, OLAP and NoSQL architecture for a payment platform, with a real time change data capture pipeline (Debezium, Kafka, Airflow), fraud detection, product recommendation, security, compliance and Grafana supervision |
-| Data pipelines | **Automatic Fraud Detection** | Real time fraud detection pipeline: model training, deployment and monitoring, with an Airflow ETL ingesting a streaming payment API |
+| Data and AI governance | **[Spotify Data Governance](https://github.com/AichaFa/3-Projets_Lead/tree/main/1_Spotify_Data_Governance)** | Maturity assessment, governance policy, RACI roles and a phased implementation roadmap |
+| Data and compute infrastructure | **[Stripe - integrated data architecture](https://github.com/AichaFa/3-Projets_Lead/tree/main/2_Stripe_Business_Case)** | OLTP, OLAP and NoSQL architecture for a payment platform, with a real time change data capture pipeline (Debezium, Kafka, Airflow), fraud detection, product recommendation, security, compliance and Grafana supervision |
+| Data pipelines | **[Automatic Fraud Detection](https://github.com/AichaFa/3-Projets_Lead/tree/main/3_Automatic_Fraud_Detection)** | Real time fraud detection pipeline: model training, deployment and monitoring, with an Airflow ETL ingesting a streaming payment API |
 | Industrialisation and deployment | **[Medical Coherence Auditor](https://github.com/AichaFa/projet_final_ACM)** | Multimodal AI checking whether a radiology report is consistent with its chest X-ray, served end to end with a full MLOps chain: model registry, semantic drift monitoring and automated retraining |
 
-### [Fullstack - Data Science & Engineering](https://github.com/AichaFa/2-Projets-Fullstack)
+[![Fullstack - Data Science & Engineering](https://img.shields.io/badge/Fullstack_--_Data_Science_%26_Engineering-brightgreen?style=for-the-badge)](https://github.com/AichaFa/2-Projets-Fullstack)
 
 | Block | Project | What it demonstrates |
 |:--|:--|:--|
-| Data infrastructure | **Kayak** | ETL pipeline feeding an AWS S3 data lake and PostgreSQL |
-| Exploratory analysis | **Speed Dating**, **Steam** | EDA on behavioural and gaming datasets |
-| Machine learning | **Walmart**, **Conversion rate challenge**, **The North Face** | Regression, classification and unsupervised NLP |
-| Deep learning | **AT&T spam detector** | Neural network for text classification |
-| Deployment | **Getaround** | Pricing optimisation served with MLflow, FastAPI and Streamlit |
+| Data infrastructure | **[Kayak](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/1-Construire%20et%20g%C3%A9rer%20une%20infrastructure%20de%20donn%C3%A9es/Projet-Planifiez%20votre%20voyage%20avec%20Kayak)** | ETL pipeline feeding an AWS S3 data lake and PostgreSQL |
+| Exploratory analysis | **[Speed Dating](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/2-Analyse%20exploratoire%20des%20donn%C3%A9es/1-Speed%20Dating)**, **[Steam](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/2-Analyse%20exploratoire%20des%20donn%C3%A9es/2-Steam)** | EDA on behavioural and gaming datasets |
+| Machine learning | **[Walmart](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/3-Apprentissage%20automatique/1-soldes%20Walmart)**, **[Conversion rate challenge](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/3-Apprentissage%20automatique/2-d%C3%A9fi%20du%20taux%20de%20conversion)**, **[The North Face](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/3-Apprentissage%20automatique/3-The%20North%20Face%20ecommerce)** | Regression, classification and unsupervised NLP |
+| Deep learning | **[AT&T spam detector](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/4-Apprentissage%20profond/D%C3%A9tecteur%20de%20spam%20AT%26T)** | Neural network for text classification |
+| Deployment | **[Getaround](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/5-Deploiement/getaround_project)** | Pricing optimisation served with MLflow, FastAPI and Streamlit |
 
-### [Essentials](https://github.com/AichaFa/1-Projets_Essentials)
+[![Essentials](https://img.shields.io/badge/Essentials-brightgreen?style=for-the-badge)](https://github.com/AichaFa/1-Projets_Essentials)
 
-**Data scientist salaries 2025** - exploratory analysis and data storytelling on the drivers of data science salaries.
+**[Data scientist salaries 2025](https://github.com/AichaFa/1-Projets_Essentials)** - exploratory analysis and data storytelling on the drivers of data science salaries.
 
 ---
 
@@ -64,6 +64,7 @@ The four competency blocks of the AI Architect title.
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com) | Hosting projects, code review and publishing a portfolio |
 | [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://commonmark.org) | Documenting repositories and writing project reports |
 | [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org) | Exploratory work, prototyping and documenting analyses |
+| [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com) | Cloud notebooks with free GPU access for training and prototyping |
 | [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com) | Main development environment |
 | [![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)](https://docs.conda.io) | Isolating environments and pinning dependency versions per project |
 
