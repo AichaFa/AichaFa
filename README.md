@@ -8,7 +8,7 @@ designing robust, scalable and well governed AI systems.
 
 ---
 
-## Training path
+<img src="section_training.png" height="40" alt="Training path">
 
 | Step | Programme | Status | Content |
 |:--|:--|:--|:--|
@@ -19,7 +19,7 @@ designing robust, scalable and well governed AI systems.
 
 ---
 
-## Projects
+<img src="section_projects.png" height="40" alt="Projects">
 
 My work is organised by training level, each project mapping to a competency block of the certification.
 
@@ -52,7 +52,7 @@ The four competency blocks of the AI Architect title.
 
 ---
 
-## Tech stack
+<img src="section_tech.png" height="40" alt="Tech stack">
 
 ### Languages and core tooling
 
@@ -239,7 +239,7 @@ Training and monitoring pipelines are orchestrated with **GitHub Actions**, and 
 
 ---
 
-## Contact
+<img src="section_contact.png" height="40" alt="Contact">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A%C3%AFcha%20Fathellah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aicha-fathellah/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AichaFaHugFace-FFD21E?style=flat&logo=huggingface&logoColor=black&labelColor=FFD21E)](https://huggingface.co/AichaFaHugFace)
