@@ -1,9 +1,9 @@
-<img src="banner.png" alt="Aïcha Fathellah Tancrez — Data Scientist, training as AI Architect" width="100%">
+<img src="banner.png" alt="Aïcha Fathellah — Data Scientist, Architecte en Intelligence Artificielle" width="100%">
 
-Office manager in the aerospace industry for four years, I am building technical expertise
+Office manager in the aerospace industry for four years, I have built technical expertise
 in data science and artificial intelligence alongside my role.
 
-Certified Data Scientist, currently training as an AI Architect, with a focus on
+Certified Data Scientist, trained as an AI Architect, with a focus on
 designing robust, scalable and well governed AI systems.
 
 ---
@@ -72,6 +72,7 @@ designing robust, scalable and well governed AI systems.
 | [![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat&logo=airbyte&logoColor=white)](https://airbyte.com) | ELT connectors, deployed on Kubernetes |
 | [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org) | Orchestrating pipelines as scheduled, monitored workflows |
 | [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)](https://kafka.apache.org) | Ingesting and processing streaming data in real time |
+| [![Debezium](https://img.shields.io/badge/Debezium-403F4C?style=flat)](https://debezium.io) | Change data capture, streaming database changes in real time from the transaction log |
 | [![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)](https://zapier.com) | Automating workflows between business applications |
 
 ---
@@ -83,6 +84,7 @@ designing robust, scalable and well governed AI systems.
 | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) | Relational storage for structured data and experiment tracking backends, including managed Postgres on Neon |
 | [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)](https://min.io) | S3 compatible object storage, used locally as a data lake and artifact store |
 | [![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)](https://neo4j.com) | Graph data science, modelling relationships as a network |
+| [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com) | Document database for semi structured data: schema validation, nested documents, GridFS and TTL indexes |
 
 ---
 
@@ -195,6 +197,7 @@ and deployment, continuous training and continuous monitoring.
 | [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) | Automating tests, builds and deployments on every commit, and triggering retraining pipelines |
 | [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io) | Alternative automation server for building CI/CD pipelines |
 | [![Evidently AI](https://img.shields.io/badge/Evidently%20AI-ED0400?style=flat&logo=python&logoColor=white)](https://www.evidentlyai.com) | Monitoring models in production, detecting data and prediction drift |
+| [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com) | Dashboards and alerting for real time infrastructure and model supervision |
 
 Data validation also relies on the `pandas.testing` module for quick schema and dtype checks
 during development, with Great Expectations reserved for production grade validation.
@@ -204,8 +207,33 @@ Training and monitoring pipelines are orchestrated with **GitHub Actions**, and 
 
 ## Projects
 
-Projects are available in the pinned repositories below, covering data infrastructure,
-exploratory analysis, supervised and unsupervised modelling, deep learning and deployment.
+My work is organised by training level, each project mapping to a competency block of the certification.
+
+### Lead — MLOps & LLMOps · [3-Projets_Lead](https://github.com/AichaFa/3-Projets_Lead)
+
+| Project | What it demonstrates |
+|:--|:--|
+| **Stripe — integrated data architecture** | OLTP, OLAP and NoSQL architecture for a payment platform, with a real time change data capture pipeline (Debezium, Kafka, Airflow), fraud detection, product recommendation, security, compliance and Grafana supervision |
+| **Automatic Fraud Detection** | Real time fraud detection pipeline: model training, deployment and monitoring, with an Airflow ETL ingesting a streaming payment API |
+| **Spotify Data Governance** | Data governance business case: maturity assessment, governance policy, RACI roles and a phased implementation roadmap |
+
+### Final project · [projet_final_ACM](https://github.com/AichaFa/projet_final_ACM)
+
+**Medical Coherence Auditor** — a multimodal AI system that checks whether a radiology report is consistent with its chest X-ray, served end to end with a full MLOps chain: model registry, semantic drift monitoring and automated retraining.
+
+### Fullstack — Data Science & Engineering · [2-Projets-Fullstack](https://github.com/AichaFa/2-Projets-Fullstack)
+
+| Block | Project | What it demonstrates |
+|:--|:--|:--|
+| Data infrastructure | **Kayak** | ETL pipeline feeding an AWS S3 data lake and PostgreSQL |
+| Exploratory analysis | **Speed Dating**, **Steam** | EDA on behavioural and gaming datasets |
+| Machine learning | **Walmart**, **Conversion rate challenge**, **The North Face** | Regression, classification and unsupervised NLP |
+| Deep learning | **AT&T spam detector** | Neural network for text classification |
+| Deployment | **Getaround** | Pricing optimisation served with MLflow, FastAPI and Streamlit |
+
+### Essentials · [1-Projets_Essentials](https://github.com/AichaFa/1-Projets_Essentials)
+
+**Data scientist salaries 2025** — exploratory analysis and data storytelling on the drivers of data science salaries.
 
 ---
 
