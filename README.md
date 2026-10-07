@@ -46,7 +46,9 @@ The four competency blocks of the AI Architect title.
 
 [![Essentials](https://img.shields.io/badge/Essentials-brightgreen?style=for-the-badge)](https://github.com/AichaFa/1-Projets_Essentials)
 
-**[Data scientist salaries 2025](https://github.com/AichaFa/1-Projets_Essentials)** - exploratory analysis and data storytelling on the drivers of data science salaries.
+| Block | Project | What it demonstrates |
+|:--|:--|:--|
+| Exploratory analysis and storytelling | **[Data scientist salaries 2025](https://github.com/AichaFa/1-Projets_Essentials)** | Analysis and data storytelling on the drivers of data science salaries in 2025 |
 
 ---
 
