@@ -3,8 +3,7 @@
 Office manager in the aerospace industry for four years, I have built technical expertise
 in data science and artificial intelligence alongside my role.
 
-Certified Data Scientist, trained as an AI Architect, with a focus on
-designing robust, scalable and well governed AI systems.
+Certified Data Scientist and AI Architect, building AI systems that are robust, scalable and governed by design.
 
 ---
 
