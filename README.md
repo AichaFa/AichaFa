@@ -14,7 +14,7 @@ designing robust, scalable and well governed AI systems.
 |:--|:--|:--|:--|
 | 01 | **Essentials** | Certified 2025 | Data exploration and cleaning (EDA), hypothesis testing, regression, classification, Random Forest, SQL |
 | 02 | **Fullstack** | Certified 2026 | Big Data, Deep Learning, Computer Vision, NLP, Large Language Models and RAG, MLOps, ETL pipelines |
-| 03 | **Concepteur Développeur en Science des Données** | Certified 2026 | Six competency blocks, from data infrastructure to leading data projects |
+| 03 | **Concepteur Développeur en Science des Données** | Certified 2026 RNCP35288 (Level 6 Master) | Six competency blocks, from data infrastructure to leading data projects |
 | 04 | **Architecte en Intelligence Artificielle** | Jedha certificate obtained, RNCP38777 (Level 7) exam in October 2026 | Data and AI governance, data architecture, data pipelines, industrialisation and deployment of AI solutions |
 
 ---
@@ -23,7 +23,7 @@ designing robust, scalable and well governed AI systems.
 
 My work is organised by training level, each project mapping to a competency block of the certification.
 
-<a href="https://github.com/AichaFa/3-Projets_Lead"><img src="badge_lead.png" height="34" alt="Lead - MLOps & LLMOps"></a>
+**[Lead - MLOps & LLMOps](https://github.com/AichaFa/3-Projets_Lead)**
 
 The four competency blocks of the AI Architect title.
 
@@ -34,7 +34,7 @@ The four competency blocks of the AI Architect title.
 | Data pipelines | **[Automatic Fraud Detection](https://github.com/AichaFa/3-Projets_Lead/tree/main/3_Automatic_Fraud_Detection)** | Real time fraud detection pipeline: model training, deployment and monitoring, with an Airflow ETL ingesting a streaming payment API |
 | Industrialisation and deployment | **[Medical Coherence Auditor](https://github.com/AichaFa/projet_final_ACM)** | Multimodal AI checking whether a radiology report is consistent with its chest X-ray, served end to end with a full MLOps chain: model registry, semantic drift monitoring and automated retraining |
 
-<a href="https://github.com/AichaFa/2-Projets-Fullstack"><img src="badge_fullstack.png" height="34" alt="Fullstack - Data Science & Engineering"></a>
+**[Fullstack - Data Science & Engineering](https://github.com/AichaFa/2-Projets-Fullstack)**
 
 | Block | Project | What it demonstrates |
 |:--|:--|:--|
@@ -44,7 +44,7 @@ The four competency blocks of the AI Architect title.
 | Deep learning | **[AT&T spam detector](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/4-Apprentissage%20profond/D%C3%A9tecteur%20de%20spam%20AT%26T)** | Neural network for text classification |
 | Deployment | **[Getaround](https://github.com/AichaFa/2-Projets-Fullstack/tree/main/5-Deploiement/getaround_project)** | Pricing optimisation served with MLflow, FastAPI and Streamlit |
 
-<a href="https://github.com/AichaFa/1-Projets_Essentials"><img src="badge_essentials.png" height="34" alt="Essentials"></a>
+**[Essentials](https://github.com/AichaFa/1-Projets_Essentials)**
 
 | Block | Project | What it demonstrates |
 |:--|:--|:--|
@@ -52,190 +52,212 @@ The four competency blocks of the AI Architect title.
 
 ---
 
-<img src="section_tech.png" height="40" alt="Tech stack">
+## What I learned at Jedha
 
-### Languages and core tooling
+My training at Jedha followed three successive cohorts, each building on the previous one,
+from the foundations of data science to the industrialisation of AI systems in production.
+The sections below summarise what each cohort covered. The technical stack of each cohort,
+combining what I used in my projects and what I studied in class, is listed in the
+collapsible panels.
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) | Main language across every project, from analysis to model training and deployment |
-| [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) | Joins, aggregations, grouping and filtering on relational databases |
-| [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org) | Working environment for containers, clusters and remote instances |
-| [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) | Automating tasks and driving infrastructure from the command line |
-| [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com) | Version control, branching and collaborative workflows |
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com) | Hosting projects, code review and publishing a portfolio |
-| [![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://commonmark.org) | Documenting repositories and writing project reports |
-| [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org) | Exploratory work, prototyping and documenting analyses |
-| [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com) | Cloud notebooks with free GPU access for training and prototyping |
-| [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com) | Main development environment |
-| [![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)](https://docs.conda.io) | Isolating environments and pinning dependency versions per project |
+**Essentials - Data Science foundations**
 
----
+The entry point. I learned the fundamentals of data science and programming with Python and
+SQL, exploratory data analysis and cleaning (EDA), statistical validation through hypothesis
+testing, and the first machine learning algorithms (regression, classification, Random
+Forest), together with data storytelling to turn an analysis into clear recommendations.
 
-### Data manipulation and analysis
+<details>
+<summary><strong>Essentials - stack & tools</strong></summary>
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org) | Loading, cleaning, reshaping and aggregating tabular data |
-| [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org) | Vectorised numerical computing, arrays and linear algebra |
+<br>
 
----
+**Languages & core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
-### Visualisation and business intelligence
+**Data & compute**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)](https://matplotlib.org) | Base plotting layer, fine control over figures for reports |
-| [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org) | Statistical charts, distributions and correlation views during EDA |
-| [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/python/) | Interactive charts embedded in notebooks and dashboards |
-| [![Bokeh](https://img.shields.io/badge/Bokeh-9C27B0?style=flat&logo=python&logoColor=white)](https://bokeh.org) | Interactive browser based visualisations for larger datasets |
-| [![Dash](https://img.shields.io/badge/Dash-3F4F75?style=flat&logo=plotly&logoColor=white)](https://dash.plotly.com) | Building analytical dashboards on top of model outputs |
-| [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com) | Data mining and business dashboards from multiple sources |
+**Visualisation**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
----
+**Machine learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### Data collection, pipelines and orchestration
+</details>
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white)](https://requests.readthedocs.io) | Consuming REST APIs to collect external data |
-| [![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/library/asyncio.html) | Asynchronous programming for concurrent data collection |
-| [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/) | Parsing and extracting content from HTML pages |
-| [![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=python&logoColor=white)](https://scrapy.org) | Building structured web crawlers to collect data at scale |
-| [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org) | Connecting Python to databases and managing schemas from code |
-| [![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat&logo=airbyte&logoColor=white)](https://airbyte.com) | ELT connectors, deployed on Kubernetes |
-| [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org) | Orchestrating pipelines as scheduled, monitored workflows |
-| [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)](https://kafka.apache.org) | Ingesting and processing streaming data in real time |
-| [![Debezium](https://img.shields.io/badge/Debezium-403F4C?style=flat)](https://debezium.io) | Change data capture, streaming database changes in real time from the transaction log |
-| [![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)](https://zapier.com) | Automating workflows between business applications |
+**Fullstack - Data Science & Engineering**
 
----
+The technical deepening. I learned to build and manage data infrastructure and ETL pipelines
+(data lakes, cloud, scraping), to work with big data, and to train machine learning and deep
+learning models across computer vision and natural language processing, up to large language
+models and retrieval augmented generation. This cohort also introduced the first steps of
+deployment and MLOps: exposing models through APIs, containerisation and experiment tracking.
 
-### Databases and storage
+<details>
+<summary><strong>Fullstack - stack & tools</strong></summary>
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) | Relational storage for structured data and experiment tracking backends, including managed Postgres on Neon |
-| [![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)](https://min.io) | S3 compatible object storage, used locally as a data lake and artifact store |
-| [![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)](https://neo4j.com) | Graph data science, modelling relationships as a network |
-| [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com) | Document database for semi structured data: schema validation, nested documents, GridFS and TTL indexes |
+<br>
 
----
+**OS & shell**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### Cloud
+**Data collection & scraping**
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/) | Object storage for raw data and model artifacts |
-| [![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/iam/) | Managing access rights and credentials on cloud resources |
-| [![Boto3](https://img.shields.io/badge/Boto3-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](https://boto3.amazonaws.com) | Driving AWS services programmatically from Python |
-| [![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/) | Remote compute instances, including GPU instances for training |
-| [![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)](https://aws.amazon.com/redshift/) | Cloud data warehousing for analytical queries at scale |
-| [![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/sagemaker/) | Training and deploying machine learning models in the cloud |
-| [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com) | Cloud storage services and building a data lake |
+**ETL & orchestration**
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
----
+**Databases & storage**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 
-### Big data and distributed computing
+**Cloud**
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat&logo=amazonwebservices&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org) | Processing datasets too large for a single machine, with RDDs, DataFrames and Spark SQL |
-| [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/) | Python interface to Spark for large scale data processing |
-| [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](https://www.databricks.com) | Managed Spark workspace for distributed analysis and notebooks |
-| [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org) | Foundational concepts of distributed storage and computation |
-| [![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white)](https://www.ray.io) | Distributing Python workloads across a cluster, with Ray Train and Ray Tune |
+**Big data**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 
----
+**Machine learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat&logo=python&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-1877F2?style=flat&logo=python&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-2C3E50?style=flat&logo=python&logoColor=white)
 
-### Machine learning
+**Deep learning & computer vision**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![torchvision](https://img.shields.io/badge/torchvision-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![safetensors](https://img.shields.io/badge/safetensors-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) | Preprocessing pipelines, regression, classification, clustering, PCA, model selection and evaluation |
-| [![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=python&logoColor=white)](https://xgboost.readthedocs.io) | Gradient boosted trees on structured data |
-| [![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat&logo=python&logoColor=white)](https://lightgbm.readthedocs.io) | Fast gradient boosting, an alternative for large tabular datasets |
-| [![Prophet](https://img.shields.io/badge/Prophet-1877F2?style=flat&logo=python&logoColor=white)](https://facebook.github.io/prophet/) | Time series forecasting with trend and seasonality components |
-| [![Optuna](https://img.shields.io/badge/Optuna-2C3E50?style=flat&logo=python&logoColor=white)](https://optuna.org) | Hyperparameter optimisation, used as a search strategy inside Ray Tune |
+**Natural language processing**
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat&logo=python&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-1C5D99?style=flat&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
----
+**LLM & RAG**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat&logo=weaviate&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?style=flat&logo=mistralai&logoColor=white)
+![Hugging Face Hub](https://img.shields.io/badge/HF%20Hub-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### Deep learning
+**Visualisation**
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Bokeh](https://img.shields.io/badge/Bokeh-9C27B0?style=flat&logo=bokeh&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org) | Building and training neural networks, including CNNs, RNNs and multimodal architectures |
-| [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org) | Alternative deep learning framework |
-| [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io) | High level API for assembling and training models quickly |
-| [![torchvision](https://img.shields.io/badge/torchvision-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/vision/) | Image datasets, transforms and pretrained convolutional backbones for transfer learning |
-| [![safetensors](https://img.shields.io/badge/safetensors-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://github.com/huggingface/safetensors) | Storing and loading model weights in a safe, portable format, independent of the Python version |
+**Deployment & MLOps**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
+</details>
 
-### Natural language processing
+**Lead - MLOps & LLMOps**
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)](https://spacy.io) | Tokenisation, lemmatisation and linguistic preprocessing of text corpora |
-| [![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat&logo=python&logoColor=white)](https://www.nltk.org) | Classic NLP toolkit for stopwords, stemming and corpus handling |
-| [![Gensim](https://img.shields.io/badge/Gensim-1C5D99?style=flat&logo=python&logoColor=white)](https://radimrehurek.com/gensim/) | Topic modelling and word embeddings on unlabelled text |
-| [![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers) | Pretrained transformer models, embeddings and fine tuning |
+The expertise stage, focused on production and leadership. I learned data and AI governance
+(governance frameworks, RACI, compliance), the design of complex data architectures (OLTP,
+OLAP and NoSQL, real time change data capture pipelines) and the full industrialisation of
+models through an MLOps and LLMOps chain: model registry, monitoring and drift detection,
+automated retraining, together with distributed computing and reinforcement learning for
+operational research.
 
----
+<details>
+<summary><strong>Lead - stack & tools</strong></summary>
 
-### Large language models and RAG
+<br>
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com) | Building LLM applications end to end: document loaders, recursive text splitters, retrievers, chains composed with LCEL, memory, tools and agents including a SQL agent |
-| [![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat&logo=weaviate&logoColor=white)](https://weaviate.io) | Vector database for storing embeddings and running similarity search, run both as a managed cluster and locally in Docker |
-| [![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://www.sbert.net) | Generating sentence embeddings to populate the vector store |
-| [![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?style=flat&logo=mistralai&logoColor=white)](https://mistral.ai) | Chat model used as the generation step of the retrieval chain |
-| [![LitGPT](https://img.shields.io/badge/LitGPT-792EE5?style=flat)](https://github.com/Lightning-AI/litgpt) | Fine tuning open source language models and evaluating the result |
-| [![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat)](https://docs.vllm.ai) | Serving language models in production with high throughput |
-| [![Hugging Face Hub](https://img.shields.io/badge/HF%20Hub-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/models) | Publishing fine tuned models, and pulling pretrained models and tokenizers |
+**Architecture & databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 
-Applied to retrieval augmented generation over a knowledge base, a research assistant,
-and a customer success assistant served end to end.
+**Real-time & pipelines**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium-403F4C?style=flat)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat&logo=airbyte&logoColor=white)
 
----
+**Containers & orchestration**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
-### Reinforcement learning
+**Distributed computing & RL**
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white)
+![RLlib](https://img.shields.io/badge/RLlib-028CF0?style=flat&logo=ray&logoColor=white)
+![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-412991?style=flat&logo=openai&logoColor=white)
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![RLlib](https://img.shields.io/badge/RLlib-028CF0?style=flat&logo=ray&logoColor=white)](https://docs.ray.io/en/latest/rllib/) | Distributed reinforcement learning built on top of Ray |
-| [![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-412991?style=flat&logo=openai&logoColor=white)](https://gymnasium.farama.org) | Building and customising reinforcement learning environments |
+**Machine learning & deep learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![safetensors](https://img.shields.io/badge/safetensors-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
----
+**LLMOps**
+![LitGPT](https://img.shields.io/badge/LitGPT-792EE5?style=flat)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat)
+![Hugging Face Hub](https://img.shields.io/badge/HF%20Hub-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### MLOps, deployment and infrastructure
+**MLOps & quality**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white)
+![Evidently AI](https://img.shields.io/badge/Evidently%20AI-ED0400?style=flat&logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6310?style=flat)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-These tools make up the MLOps stack I work with across testing, continuous integration
-and deployment, continuous training and continuous monitoring.
+**Supervision**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-| Tool <img src="spacer.png" width="200" height="1" alt=""> | What I use it for <img src="spacer.png" width="420" height="1" alt=""> |
-|:--|:--|
-| [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) | Packaging applications into reproducible images that run identically anywhere |
-| [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io) | Orchestrating containers across a cluster, with declarative manifests and self healing |
-| [![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://helm.sh) | Packaging and versioning Kubernetes deployments, with upgrades and rollbacks |
-| [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)](https://mlflow.org) | Tracking experiments, parameters, metrics and artifacts, serving a model registry, and running a tracking server backed by Hugging Face |
-| [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) | Exposing models through documented REST APIs |
-| [![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat&logo=python&logoColor=white)](https://www.uvicorn.org) | ASGI server running FastAPI applications in production |
-| [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io) | Turning models into interactive web applications |
-| [![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white)](https://gradio.app) | Building interactive model demos, deployed on Hugging Face Spaces |
-| [![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/spaces) | Hosting containerised applications and model demos publicly |
-| [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com) | Quick web hosting for applications |
-| [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org) | Structuring test suites with fixtures, parameterized tests, markers and edge case coverage on data, code and models |
-| [![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6310?style=flat)](https://greatexpectations.io) | Comprehensive data validation with structured expectations and detailed quality reports |
-| [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) | Automating tests, builds and deployments on every commit, and triggering retraining pipelines |
-| [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io) | Alternative automation server for building CI/CD pipelines |
-| [![Evidently AI](https://img.shields.io/badge/Evidently%20AI-ED0400?style=flat&logo=python&logoColor=white)](https://www.evidentlyai.com) | Monitoring models in production, detecting data and prediction drift |
-| [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com) | Dashboards and alerting for real time infrastructure and model supervision |
+**Cloud**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-Data validation also relies on the `pandas.testing` module for quick schema and dtype checks
-during development, with Great Expectations reserved for production grade validation.
-Training and monitoring pipelines are orchestrated with **GitHub Actions**, and also with **Airflow** DAGs.
+**Platform**
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
+</details>
 
 ---
 
